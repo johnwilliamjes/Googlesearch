@@ -24,7 +24,6 @@ import google.qa.searchpage.Searchpage;
 //Added comments
 //Added comments5
 
-
 public class SearchPageTest extends TestBase {
 	
 	Searchpage searchpage;
